@@ -1,5 +1,5 @@
 {
-    "name": "wre/php-events",
+    "name": "lordvlad/php-events",
     "description": "An EventEmitter implementation in php. Follows node.js' EventEmitter API",
     "license": "MIT",
     "authors": [

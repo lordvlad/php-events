@@ -1,0 +1,19 @@
+{
+    "name": "wre/php-events",
+    "description": "An EventEmitter implementation in php. Follows node.js' EventEmitter API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Waldemar Reusch",
+            "email": "waldemar.reusch@googlemail.com"
+        }
+    ],
+    "require": {
+        "php": ">= 5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Lordvlad": "src"
+        }
+    }
+}
